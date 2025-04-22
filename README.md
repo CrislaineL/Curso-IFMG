@@ -1,7 +1,7 @@
 # Curso-IFMG
 #STYLE DO CARROSSEL DE IMAGENS
 Wireframes
-|Web|Responsivo|
+|style|web|
 |-|-|
 |![Tela 01](./stylecarrossel.png)|
 
