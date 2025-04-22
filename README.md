@@ -3,5 +3,5 @@
 Wireframes
 |Web|Responsivo|
 |-|-|
-|![Tela 01](./stylecarrosel.png)|
+|![Tela 01](./stylecarrossel.png)|
 
